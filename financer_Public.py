@@ -14,7 +14,7 @@ cur = con.cursor()
 
 # Validate Bot and Connect Channel
 
-BOT_TOKEN = "MTI4MDk4OTY5NDEwODExMDg1OQ.Gc20AM.MAirWaEnwxkx_wKnNGwjx-6VyKH-GZoGFB2KYY"
+BOT_TOKEN = "Token Here"
 # Channel ID here
 CHANNEL_ID = 0000
 
@@ -296,4 +296,5 @@ def new_id():
 
 bot.run(BOT_TOKEN)
 con.close()
+
 
